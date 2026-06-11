@@ -25,3 +25,23 @@ A CrewAI-powered application that:
 
 ```bash
 python crew.py
+
+## Roadmap
+
+### Version 2
+
+* Hindi font support
+* Bengali font support
+* Dynamic font sizing
+
+### Version 3
+
+* Image style analysis
+* Additional design templates
+* Automatic daily generation
+
+### Version 4
+
+* Django integration
+* Website publishing
+* Scheduled greeting creation
